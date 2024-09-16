@@ -5,6 +5,14 @@
 - leveling up/skills give more d6's
 - counting the number of success.
 
+(more precise)
+### resolving skill tests
+- Roll a number of d6 equal to your skill value plus any bonuses.
+- Add up the total from all dice rolled.
+- The GM rolls for the test difficulty the same way (e.g., if the difficulty is 3, the GM rolls 3d6 and sums the dice).
+- The player succeeds if their total is higher than the difficulty score.
+
+
 # diety sheet
 
 - worship amount
