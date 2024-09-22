@@ -42,6 +42,7 @@
 - goals (micro, medium, grand?)
     - grant extra xp to the player for their completion?
     - xp depends on goal "rank"
+    - same as traints can be from class/subclass/random
 - aquired traits?
     - traits that are aquired during adventures?
     - cool concept to feel "character improvement" and make your choices matter more

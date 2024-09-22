@@ -4,3 +4,4 @@
 (A) character elements @design
 (A) basic rules @design
 (A) calculate the number of content needed 
+(A) random human generator tasks @program @plan
