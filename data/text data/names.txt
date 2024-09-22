@@ -149,3 +149,15 @@ Kael Thundershout
 Arwen Dreamweaver  
 Corwin Ironleaf  
 Serin Brightstar  
+
+-merchant
+Tamsin Goldspinner
+Cedric Tradewind
+Elowen Coinchaser
+Barrow Blackmarket
+Lirael Silverhand
+Finnian Bargainhart
+Jorvan Wealthweaver
+Nyssa Fairtrade
+Roderic Goodskeeper
+Thalia Marketmuse
