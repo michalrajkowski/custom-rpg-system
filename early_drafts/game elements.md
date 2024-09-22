@@ -1,0 +1,87 @@
+# Human:
+## human side:
+- name 
+    - character name
+    - might be generated?
+- appearance
+    - is not very important
+    - might be also generated?
+- "metrics"
+    - gender
+    - age
+    - etc....
+- xp / level
+    - xp bar? and levels
+    - on each level up increase hp and add skill points?
+    - "ulock" character traits with levelups?
+        - level locked traits are more powerfull but can be used once you have certain level?
+- hp
+    - increased with each levelup
+    - also space for "current hp" to see how much you have left
+- profesion 
+    - determine skill poll from which the skills be generated
+    - determines traits pool?
+    - does not have mechanical purpouse? (maybe it is some class and subclass)
+- skills
+    - several skills (eg. 3-5?) (probably 5 and get +3 points per level?)
+    - each one will have space for upgrades (which can be added with leveling up)
+    - skills start at level 1? (you add +d6 to rolls (2ds in total))
+    - skills are generated from the list and added to player?
+- traits ("human feats")
+    - might related to:
+        - class
+        - proffesion
+        - random (universal)
+    - some can be more powerfull but level locked
+    - they can be positive, negative and neutral?
+        - negative skills might allow you to gather xp faster?
+        - or get some other positive boost
+- eq?
+    - minimalistic equipment?
+    - mostly for some magic items / special items
+- goals (micro, medium, grand?)
+    - grant extra xp to the player for their completion?
+    - xp depends on goal "rank"
+- aquired traits?
+    - traits that are aquired during adventures?
+    - cool concept to feel "character improvement" and make your choices matter more
+- status/buffs/debuffs
+    - temporary traits that end with the session?
+    - they might be withing the aquired traits cathegory
+## Patron side:
+- goals (micro, medium, grand?)
+    - grant something for the patron
+- boons ("patron feats")
+    - empty slots for boons (3)(are not generated)
+    - can be assigned from patron boons list
+    - maximum points (optional?)
+        - boons have **point costs**
+        - the total point cost can not exceed certain number
+            - this number might depend on character level for example
+
+# Patron:
+- name
+- lore?
+- devotion?
+    - patron "xp"
+    - its power depends on devition?
+    - for devotion it gets new boons and powers?
+- domain
+    - it affects what the player has to do, its "morality", patron goals and assigned powers?
+- powers
+    - your special "godly powers"
+    - are the symbol of power of the patron
+    - WIP
+- boons
+    - get from "patron xp"
+    - can have different "power level"
+    - are assigned to your humans
+- agenda?? / goals
+    - patron goals and things to do
+    - can be assigned to "humans" to perform them for you
+    - can have multiple human players at the same time
+    - the goals come from domain and from game lore/quests?
+    - mg assign you the "grand goals?" and you can come up with the lower level ones?
+    - you think of goals before and then assign them to the new character?
+
+# 
