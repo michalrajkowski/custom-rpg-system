@@ -1,0 +1,6 @@
+(C) create tasks for website @web @plan
+(A) plan the project structure @plan
+(B) plan the pdf generator @plan @python
+(A) character elements @design
+(A) basic rules @design
+(A) calculate the number of content needed 
