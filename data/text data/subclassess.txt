@@ -9,3 +9,7 @@
 -cleric
 -shaman
 -merchant
+-fisherman
+-pirate
+-gladiator
+-outlaw

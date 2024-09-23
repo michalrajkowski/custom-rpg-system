@@ -74,3 +74,31 @@
 - Negotiation  
 - Crafting  
 - History  
+
+-fisherman
+- Fishing  
+- Navigation  
+- Survival  
+- Foraging  
+- Weather Prediction 
+
+-pirate
+- Sailing  
+- Navigation  
+- Melee Combat  
+- Thievery  
+- Intimidation  
+
+-gladiator
+- Melee Combat  
+- Unarmed Combat  
+- Defense  
+- Intimidation  
+- Tactics  
+
+-outlaw
+- Thievery  
+- Sneaking  
+- Ranged Combat  
+- Deception  
+- Survival  

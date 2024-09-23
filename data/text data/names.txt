@@ -161,3 +161,51 @@ Jorvan Wealthweaver
 Nyssa Fairtrade
 Roderic Goodskeeper
 Thalia Marketmuse
+
+-fisherman
+Calder Deepwater
+Lira Tidecaster
+Finnan Netsworn
+Selric Wavechaser
+Mirae Seastrider
+Thorne Driftwood
+Joryn Saltwhisker
+Kellan Fishhook
+Brynn Oceaneye
+Taran Riverbend
+
+-pirate
+Captain Blacktide
+Selene Stormrider
+Jaxon Sharpfang
+Morgana Seablade
+Riven Cutlass
+Thalia Darkwater
+Finn Bloodsail
+Kael Driftwind
+Iskar Ironhook
+Vesper Blackflag
+
+-gladiator
+Kael Bloodstrike
+Thalora Ironfist
+Garron Steelclash
+Selina Bonebreaker
+Rorik Bladefang
+Vesta Warbringer
+Khoros Skullcrusher
+Lyra Stormfist
+Draven Spearheart
+Valeria Shieldbane
+
+-outlaw
+Jarek Blackthorn
+Selene Quickshot
+Thorne Wildfang
+Vespera Dustwalker
+Corvin Shadowspur
+Rylin Grimstride
+Nyssa Rustcloak
+Kade Flintlock
+Lirael Ironhide
+Finnian Thorncloak

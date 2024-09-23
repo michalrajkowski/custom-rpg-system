@@ -10,3 +10,7 @@
 (B) create neutral traits +traits
 (B) create class traits for each class +traits
 (B) create domain boons +traits
+
+(A) plan website subtasks +website
+
+(A) plan points for pdf generator +characterSheet

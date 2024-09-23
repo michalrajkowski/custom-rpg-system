@@ -118,6 +118,7 @@ Discover and interpret a prophecy that could change the fate of your tribe or th
 
 Master Spirit Walk
 Achieve the ability to enter the spirit realm at will, gaining deeper insights and powers from the spirits.
+
 -merchant
 Expand Your Trading Network
 Develop a network of contacts in different cities or regions to increase your reach and profits.
@@ -130,3 +131,55 @@ Dominate a specific trade, such as spices or magical artifacts, by acquiring a m
 
 Influence Local Politics
 Leverage your wealth and connections to sway local leaders and policies in favor of your business interests.
+
+-fisherman
+Catch a Legendary Fish
+Reel in a fish of mythic proportions, known across the region for its size or magical properties.
+
+Master Deep-Sea Fishing
+Equip yourself and learn the techniques necessary to fish in the treacherous, deep-sea waters.
+
+Found a Fisherman’s Guild
+Create an organization that unites local fishermen to improve their craft, protect waters, and share resources.
+
+Supply a Major Banquet
+Provide a large and prestigious event, such as a royal feast or festival, with the finest and most exotic fish you can catch.
+
+-pirate
+Claim a Pirate's Bounty
+Locate and seize a legendary treasure rumored to be hidden on a distant island.
+
+Become the Pirate King
+Unite various pirate crews under your banner to create a formidable fleet and establish your dominance over the seas.
+
+Fame as a Notorious Pirate
+Build your reputation through daring exploits, becoming a feared and respected name across the oceans.
+
+Construct a Pirate Haven
+Establish a hidden base or port where pirates can safely gather, trade, and rest without fear of the law.
+
+-gladiator
+Become Champion of the Arena
+Defeat all challengers and claim the title of the arena's champion, solidifying your legacy.
+
+Uncover a Gladiator Conspiracy
+Investigate and expose corruption or foul play within the arena management or among other gladiators.
+
+Lead a Gladiator Revolt
+Organize and lead a group of gladiators to fight for freedom from oppression or unfair treatment.
+
+Establish Your Own School of Combat
+Create a training academy for aspiring gladiators, passing on your knowledge and skills to the next generation.
+
+-outlaw
+Lead a Successful Heist
+Plan and execute a daring robbery of a wealthy target, securing valuable loot and notoriety.
+
+Overthrow a Corrupt Official
+Expose and eliminate a corrupt leader or lawman, freeing your community from oppression.
+
+Build a Reputation as a Robin Hood Figure
+Cultivate a legendary status as a heroic outlaw who steals from the rich to give to the poor.
+
+Escape to a Safe Haven
+Find or create a sanctuary where outlaws can live freely and without persecution, establishing a new life.

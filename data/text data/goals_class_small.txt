@@ -130,3 +130,55 @@ Establish connections with local producers to ensure a steady supply of goods.
 
 Host a Market Stall
 Set up a stall at a local fair to showcase your products and attract new customers.
+
+-fisherman
+Catch a Rare Fish
+Find and catch a rare species that is prized in local markets for its value or beauty.
+
+Find the Best Bait
+Experiment with different baits to discover what attracts the most fish in your region.
+
+Sell Your Best Catch
+Successfully sell a particularly large or valuable fish at the market.
+
+Avoid a Dangerous Storm
+Safely navigate back to shore while fishing during an unexpected storm.
+
+-pirate
+Plunder a Merchant Ship
+Successfully raid a passing merchant vessel for treasure and supplies.
+
+Map a Smuggler's Route
+Chart a secret pathway known only to smugglers, allowing for safer and more profitable journeys.
+
+Escape a Naval Pursuit
+Outmaneuver a pursuing naval ship and evade capture through clever tactics.
+
+Find a Hidden Cove
+Discover a secluded cove that serves as a perfect hideout for your crew and ship.
+
+-gladiator
+Win a Small Arena Match
+Compete in and win a local arena fight to gain recognition and improve your skills.
+
+Obtain a New Weapon
+Acquire a unique or better weapon that enhances your combat abilities in the arena.
+
+Train with a Veteran Gladiator
+Spend time learning techniques and strategies from an experienced gladiator.
+
+Gain Favor with the Crowd
+Perform spectacularly in the arena to earn the adoration of the audience and boost your reputation.
+
+-outlaw
+Elude Capture
+Successfully avoid a local bounty hunter or law enforcement agent determined to bring you in.
+
+Steal Supplies for the Poor
+Acquire food or resources from the wealthy to distribute to those in need.
+
+Set Up a Hideout
+Establish a safe location where you and your crew can rest and plan without fear of discovery.
+
+Forge a Useful Alliance
+Form a temporary alliance with another group (e.g., bandits or rebels) to achieve a mutual goal.
