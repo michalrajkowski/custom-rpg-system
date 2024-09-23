@@ -5,3 +5,8 @@
 (A) basic rules @design
 (A) calculate the number of content needed 
 (A) random human generator tasks @program @plan
+
+(A) generate trait list @program
+(B) create neutral traits +traits
+(B) create class traits for each class +traits
+(B) create domain boons +traits
